@@ -1,0 +1,196 @@
+body {
+  line-height: normal;
+}
+.place-dob {
+  margin-block-start: 0;
+  margin-block-end: 0;
+}
+.bogor-indonesia-p,
+body {
+  margin: 0;
+}
+.place-dob-singapore-21-may {
+  position: absolute;
+  top: 63px;
+  left: 360px;
+  text-align: right;
+  display: inline-block;
+}
+.email-nabhananuz01gmailcom,
+.nabhan-yahya-anuz {
+  position: absolute;
+  top: 63px;
+  left: 8px;
+  display: inline-block;
+}
+.nabhan-yahya-anuz {
+  top: 10px;
+  left: 175px;
+  font-size: 32px;
+}
+.education-div,
+.skills-additional-experience {
+  position: absolute;
+  top: 9px;
+  left: 0;
+  display: inline-block;
+  width: 211px;
+  height: 51px;
+}
+.skills-additional-experience {
+  top: 0;
+  left: 436px;
+}
+.sekolah-bogor-raya {
+  margin-block-start: 0;
+  margin-block-end: 0;
+  font-size: var(--font-size-lg);
+}
+.p2,
+.span {
+  font-size: var(--font-size-sm);
+}
+.p2 {
+  margin: 0;
+}
+.sekolah-bogor-raya-ibdp-gr-11 {
+  position: absolute;
+  top: 89px;
+  left: 7px;
+  text-align: left;
+  display: inline-block;
+  font-size: var(--font-size-base);
+}
+.lead-gov-gr {
+  font-size: 15px;
+}
+.ib-help-website-for {
+  margin-block-start: 0;
+  margin-block-end: 0;
+  font-size: var(--font-size-sm);
+}
+.website-designer-ib-tok-exhibi {
+  position: absolute;
+  top: 89px;
+  left: 223px;
+  text-align: left;
+  display: inline-block;
+  font-size: var(--font-size-base);
+}
+.completed-abrsm-gr-2 {
+  margin-block-start: 0;
+  margin-block-end: 0;
+  font-size: var(--font-size-base);
+}
+.english-native-level {
+  margin-bottom: 0;
+}
+.english-native-level-indonesia {
+  margin: 0;
+  font-size: var(--font-size-base);
+  padding-left: 21px;
+}
+.abrsm-grade-2-completed-abrsm {
+  position: absolute;
+  top: 89px;
+  left: 445px;
+  font-family: var(--font-inherit);
+  text-align: left;
+  display: inline-block;
+}
+.organizational-experience-div {
+  position: absolute;
+  top: 9px;
+  left: 214px;
+  display: inline-block;
+  width: 211px;
+  height: 51px;
+}
+.group-div {
+  position: absolute;
+  top: 160px;
+  left: 0;
+  width: 650px;
+  height: 391px;
+  text-align: center;
+  font-size: var(--font-size-lg);
+}
+.line-1-stroke {
+  position: absolute;
+  top: 150.5px;
+  left: 0;
+  width: 659px;
+  height: 2px;
+  mix-blend-mode: normal;
+}
+.line-div {
+  position: absolute;
+  top: 150px;
+  left: 430px;
+  background-color: var(--color-black);
+  border-right: 2px solid var(--color-black);
+  box-sizing: border-box;
+  width: 2px;
+  height: 631px;
+}
+.line-1-stroke1 {
+  position: absolute;
+  top: 238.5px;
+  left: 0;
+  width: 659px;
+  height: 2px;
+  mix-blend-mode: normal;
+}
+.line-div1 {
+  position: absolute;
+  top: 150px;
+  left: 208px;
+  background-color: var(--color-black);
+  border-right: 2px solid var(--color-black);
+  box-sizing: border-box;
+  width: 2px;
+  height: 631px;
+}
+.line-1-stroke2,
+.line-1-stroke3 {
+  position: absolute;
+  top: 53.5px;
+  left: 57.5px;
+  width: 549px;
+  height: 2px;
+  mix-blend-mode: normal;
+}
+.line-1-stroke3 {
+  top: 779.5px;
+  left: 0;
+  width: 659px;
+  height: 0.5px;
+}
+.line-div2,
+.line-div3 {
+  position: absolute;
+  top: -31px;
+  left: 658px;
+  border-right: 2px solid var(--color-black);
+  box-sizing: border-box;
+  width: 2px;
+  height: 885px;
+}
+.line-div3 {
+  top: -30.5px;
+  left: -0.5px;
+  border-right: 1px solid var(--color-black);
+  width: 1px;
+  height: 884px;
+}
+.frame-div {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 780px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}
